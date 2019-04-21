@@ -150,24 +150,6 @@ public class DataMakanan {
                             "Return the chicken to the pan and splash in the soy and chilli sauces. Stir until evenly mixed, then cover and cook for a further 2 minutes until the chicken is tender and the veggies are slightly softened."
             },
             {
-                    "Epicurious",
-                    "Chicken Breasts with Tomato-Herb Pan Sauce",
-                    "http://static.food2fork.com/epicuriousfacebook511b.png",
-                    "The key to this sauté: Cook the tomatoes with the bits of chicken left over after you've seared it in the pan. When the tomatoes burst, swirl in the remaining marjoram butter to finish the pan sauce.",
-                    "2 tablespoons (1/4 stick) unsalted butter, room temperature\n" +
-                            "1 garlic clove, minced\n" +
-                            "1 1/2 teaspoons chopped fresh marjoram or oregano\n" +
-                            "1/2 teaspoon sweet paprika\n" +
-                            "Kosher salt and freshly ground black pepper\n" +
-                            "2 skinless, boneless chicken breasts\n" +
-                            "2 cups mixed cherry tomatoes (11-12 ounces)\n" +
-                            "1 tablespoon chopped fresh flat-leaf parsley",
-                    "Mash butter, garlic, marjoram, and paprika in a small bowl to blend. Season marjoram butter to taste with salt and pepper.\n\n" +
-                            "Melt 1 tablespoon marjoram butter in a medium heavy skillet over medium heat. Season chicken with salt and pepper. Add chicken to skillet, cover, and cook until no longer pink in center, about 5 minutes per side. Transfer chicken to a plate. Tent chicken with foil to keep warm.\n\n" +
-                            "Increase heat to high. Add tomatoes to skillet and cook, stirring occasionally, until they begin to char and burst, about 5 minutes. Add remaining marjoram butter to skillet. Crush tomatoes slightly to release juices; stir 1 minute. Season sauce to taste with salt and pepper. Spoon tomato sauce over chicken. Garnish with parsley."
-
-            },
-            {
                     "BBC Good Food",
                     "Chicken  broccoli pasta bake",
                     "http://static.food2fork.com/1948_MEDIUM8fbc.jpg",
@@ -315,44 +297,6 @@ public class DataMakanan {
                             "4. Add chopped vegetables and simmer for 5 minutes. Add in chicken and parsley and heat through. Season to taste with salt and pepper.\n\n" +
                             "5. Meanwhile, cook gnocchi according to package directions and drain. Add to chicken mixture and stir until everything is well combined.\n\n" +
                             "6. Transfer to serving bowl or plates and garnish with shaved parmesan and chopped parsley"
-
-            },
-            {
-                    "Simply Recipes",
-                    "Baked Chicken Parmesan",
-                    "http://static.food2fork.com/simplyrecipeslogodefaultf402004e.jpg",
-                    "Baked Chicken Parmesan! EASY and quick, simply bread the chicken cutlets with Parmesan and crumbs, bake in the oven, and top with a fresh, homemade tomato sauce. This baked chicken parmesan is delicious. Serve with noodles.",
-                    "1/4 cup extra virgin olive oil\n" +
-                            "2 garlic cloves, peeled, finely chopped (about 2 teaspoons)\n" +
-                            "1 can (28 oz) crushed tomatoes (we use Muir-Glen)\n" +
-                            "1/2 teaspoon dried basil (or 1 Tbsp of chopped fresh basil)\n" +
-                            "1/4 teaspoon dried oregano (or 1 teaspoon of chopped fresh oregano)\n" +
-                            "1/4 teaspoon sugar\n" +
-                            "Salt and ground black pepper to taste\n" +
-                            "3 Tbsp Dijon mustard\n" +
-                            "1 Tbsp white-wine vinegar\n" +
-                            "1/2 teaspoon salt\n" +
-                            "1/2 teaspoon black pepper\n" +
-                            "1 1/2 pounds chicken breast cutlets (or skinless boneless chicken breasts or thighs that have been pounded to a 1/4-inch thickness)\n" +
-                            "1 cup of breadcrumbs (panko or homemade)\n" +
-                            "1 cup finely grated Parmesan cheese\n" +
-                            "3 Tbsp unsalted butter, melted",
-                    "1. Heat the olive oil in a large saucepan on medium high heat. Add the garlic and cook until fragrant, about 30 seconds. Stir in the crushed tomatoes, basil, oregano, sugar, a pinch of salt and pepper. Bring to a simmer. Continue to simmer until sauce thickens a bit and flavors meld, about 10-12 minutes. Taste sauce, adjust seasoning if necessary, cover and keep warm.\n" +
-                            "\n" +
-                            "2. Preheat oven to 450°F. Line a baking sheet with foil, parchment, or Silpat. While the sauce is simmering, prepare the chicken in the next steps.\n" +
-                            "\n" +
-                            "3. Make the coating: In a large bowl whisk together the mustard, vinegar, salt, and 1/4 teaspoon of pepper. Add the chicken cutlets to the mixture and coat well on both sides.\n" +
-                            "\n" +
-                            "4. Dredge the chicken: In another bowl, mix together the breadcrumbs, grated Parmesan, and 1/4 teaspoon of black pepper. Mix well and stir in the melted butter. Transfer to a shallow plate. Dredge the chicken pieces in the breadcrumb mixture, gently pressing the breadcrumbs into the chicken cutlets. Place dredged chicken on the lined baking sheet.\n" +
-                            "\n" +
-                            "5. Bake at 450°F on the center rack of the oven until cooked and golden brown, about 15 minutes.\n" +
-                            "\n" +
-                            "6. Serve with a side of rice, noodles or pasta. Ladle sauce with the chicken.",
-                    "1. Heat oven to 200C/fan 180C/gas 6. Mix the mascarpone with the rosemary, garlic and seasoning. Place the chicken breasts on a board and lift, but don’t detach, the skin. Put a spoonful of the mascarpone mix under the skin of each breast. Wrap 2 slices of prosciutto around each, as neatly and tightly as you can, to keep the filling enclosed.\n" +
-                            "\n" +
-                            "2. Heat a non-stick frying pan, add the olive oil and quickly brown the chicken on both sides. Transfer to a roasting tin, then finish off in the oven for 15-20 mins until just cooked.\n" +
-                            "\n" +
-                            "3. Add the lemon juice to the roasting tin and stir over the heat, scraping off any crispy bits. Spoon the juices over the chicken and serve with potatoes and green beans."
 
             },
             {

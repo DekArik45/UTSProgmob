@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">TugasUTS</string>
-    <string name="list">List</string>
-    <string name="grid">Grid</string>
-    <string name="with_cardview">with CardView</string>
+    <string name="app_name">AllFood</string>
+    <string name="list">List View</string>
+    <string name="grid">Grid View</string>
+    <string name="with_cardview">Card View</string>
     <string name="favorite">Favorite</string>
     <string name="share">Share</string>
 </resources>

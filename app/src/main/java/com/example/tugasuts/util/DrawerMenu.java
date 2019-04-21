@@ -41,7 +41,7 @@ public class DrawerMenu {
     public void createDrawer(Context context, AppCompatActivity activity, Toolbar mToolbar){
 
             nama = "Guest";
-            sub_title = "Selamat Datang";
+            sub_title = "Wellcome to AllFood";
 
         // Create the AccountHeader
 
@@ -79,7 +79,7 @@ public class DrawerMenu {
         final AppCompatActivity activityFinal = activity;
         //if you want to update the items at a later time it is recommended to keep it in a variable
         PrimaryDrawerItem item1 = new PrimaryDrawerItem().withIdentifier(1).withName("Main").withIcon(GoogleMaterial.Icon.gmd_list);
-        PrimaryDrawerItem item2 = new PrimaryDrawerItem().withIdentifier(2).withName("Tentang Aplikasi").withIcon(GoogleMaterial.Icon.gmd_apps);
+        PrimaryDrawerItem item2 = new PrimaryDrawerItem().withIdentifier(2).withName("About Application").withIcon(GoogleMaterial.Icon.gmd_apps);
         //create the drawer and remember the `Drawer` result object
         Drawer result = new DrawerBuilder()
                 .withActivity(activity)

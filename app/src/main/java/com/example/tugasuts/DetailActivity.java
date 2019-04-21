@@ -65,7 +65,7 @@ public class DetailActivity extends AppCompatActivity {
         mToolbar = (Toolbar) findViewById(R.id.detail_toolbar);
         mAppBar = (AppBarLayout) findViewById(R.id.detail_appBarLayout);
 
-        mToolbar.setTitle("Detail Makanan");
+        mToolbar.setTitle("Food Detail");
         setSupportActionBar(mToolbar);
         if (getSupportActionBar() != null){
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
