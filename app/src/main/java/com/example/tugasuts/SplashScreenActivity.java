@@ -9,7 +9,7 @@ import android.os.Bundle;
 import android.widget.ProgressBar;
 
 public class SplashScreenActivity extends AppCompatActivity {
-    private int waktu_loading=5000;
+    private int waktu_loading=3000;
 
 
     @Override
